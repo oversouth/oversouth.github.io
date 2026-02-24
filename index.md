@@ -1,5 +1,5 @@
 Hello! I'm a software engineer/student.
-I am interested about technology and videogames,i can code in C++ and Python
+I am interested in technology and videogames,i can code in C++ and Python
 * [👨‍💻 My profile on GitHub 👨‍💻](https://github.com/oversouth)
 * [🐍 pylearning: I'm learning Python 🐍](https://github.com/oversouth/pylearning)
 * [👾 PacMan for Arduino written in C++ 👾](https://github.com/oversouth/pacmINO)
